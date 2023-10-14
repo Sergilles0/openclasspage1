@@ -1,0 +1,9 @@
+* { margin: 0;
+padding: 0; 
+box-sizing: border-box;}
+
+@mixin button-property {
+color: #7451eb;
+padding: 10px;
+border: 1px solid #7451eb;
+border-radius: 3px;}
